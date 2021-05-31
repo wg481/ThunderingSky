@@ -1,5 +1,7 @@
 # What are these?
-As I have just found out, these are HeroMachine 2.5 Character Dumps. I'm fully assuming these were conceptual and not actual character designs.
+As I have just found out, these are HeroMachine 2.5 Character Dumps. I'm fully assuming these were conceptual and not actual character designs. I willl end up uploading some of these character concepts as `.png` files. For now, follow the instructions below.
+
+## How do I, well, see these?
 
 - To load these, download the Flash Player projecter content debugger from [Adobe](https://www.adobe.com/support/flashplayer/debug_downloads.html).
 - Run the app and press `File > Open` and input this URL: http://www.heromachine.com/hm2/heromachine.swf
