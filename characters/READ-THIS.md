@@ -3,7 +3,7 @@ As I have just found out, these are HeroMachine 2.5 Character Dumps. I'm fully a
 
 ## How do I, well, see these?
 
-- To load these, download the Flash Player projecter content debugger from [Adobe](https://www.adobe.com/support/flashplayer/debug_downloads.html).
+- To load these, download the `Flash Player projecter content debugger` from [Adobe](https://www.adobe.com/support/flashplayer/debug_downloads.html).
 - Run the app and press `File > Open` and input this URL: http://www.heromachine.com/hm2/heromachine.swf
 - Once the URL has been inputted, HeroMachine will load. 
 - Select `Load` from the HeroMachine menu. 
