@@ -14,12 +14,9 @@ The game is currently on hold, as we've learned that two weeks of LWJGL knowledg
 * In IntelliJ you want to click the `Edit Configurations` button, in the upper right corn
 Replace windows with mac depending on your platform
 
-## WG481's Note
-Hey all, WG481 here. I forked this repository to keep some state of it in development. Since branch:master has had no commits in the last four years, I'm modernizing the the character tools and maybe editing some of the LWGJL. I certaintly won't be doing anything monumental, but this is my fork of Thundering Sky.
-
 ## To-Do list
  - [x] Make a commit for the first time in 4 years
  - [x] Generate a to-do list
- - [ ] Find Character Generator
+ - [x] Find Character Generator
  - [ ] Update some obsolete files
  - [ ] Add more to-do items
