@@ -5,7 +5,7 @@ Thundering Sky is an in-development 8-bit Japanese-Style Role Playing Game remin
 The game is currently on hold, as we've learned that two weeks of LWJGL knowledge doesn't quite add up to a full '80s-style JRPG.
 
 © 2017 nitrodragon, EthanBar22, SirNectarine, YoshiMelon24. 
-<br>Edits performed by Van 'WG481' Russell
+<br>Edits performed by WG481
 
 
 ## How to compile and build
